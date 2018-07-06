@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## 公司
 
-You can use the [editor on GitHub](https://github.com/censoft-corp/censoft.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+中关村科技软件股份有限公司（以下简称：公司）（英文名称：CENSOFT）成立于2002年，由中关村科技、四通、微软三方组建，是微软在中国投资的第一家大型软件公司。公司注册资本3000万元人民币，是中关村软件园入园的第一家企业。目前，公司的战略投资人包括两家上市企业：北京中关村科技发展（控股）股份有限公司和北京拓尔思信息技术股份有限公司。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作为中国信息资源管理的先行者、实践者和领导者，我们专注于以大数据和云应用为核心的信息资源开发和利用，通过持续的技术和应用创新，实现“信息资源整合之道”。
 
-### Markdown
+## 主要产品和服务：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+公司平台产品是：CenGRP（中关通用资源管理平台），是一个以信息资源管理为核心、以门户为主线、以数据交换为基础的企业级应用支撑平台和资源整合平台中间件产品系列套件，包括基础框架服务、非结构化信息整合服务、结构化数据整合服务、前端应用整合服务、交互与协助服务、丰富的构件库服务、身份整合与集成服务、门户安全框架服务、标准应用开发服务等部分。
 
-```markdown
-Syntax highlighted code block
+公司以CenGRP中关通用资源管理平台为核心技术基础平台、以CenAP中关应用平台为重点业务应用平台、以CenSOLUTION中关解决方案为主要服务模式，专注于以大数据CenBDP和云应用CenCLOUD为核心的信息资源整合和应用支撑，为客户提供全生命周期的信息资源管理软件和服务，致力于成为客户关键平台和创新应用的主要提供商，实现政府的高效运营和智慧管理。
 
-# Header 1
-## Header 2
-### Header 3
+凭借CenGRP系列软件及行业应用，公司真正满足了中国企业级客户的信息化关键需求，确立了在中间件、特别是信息资源管理领域的领导者地位和有影响力市场品牌，并已发展成为中国最有影响力的软件公司之一。
 
-- Bulleted
-- List
+## 公司目标：
 
-1. Numbered
-2. List
+成为中国最领先的信息资源管理软件产品和服务提供商。
 
-**Bold** and _Italic_ and `Code` text
+- 信息资源管理 1.0 = “基于共享交换的业务应用”
+- 信息资源管理 2.0 = “基于大数据的云应用”
+- 信息资源管理 3.0 = “数据时代的云服务”
 
-[Link](url) and ![Image](src)
-```
+## 公司使命：
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+通过**信息资源管理领域**的**技术和应用创新**、为客户提供**专业的解决方案服务**，真正满足中国**企业级客户的信息化关键需求**。
 
-### Jekyll Themes
+## 主营业务：
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/censoft-corp/censoft.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+政府大数据和云应用
 
-### Support or Contact
+即：为各级政府部门、社会单位和公众客户，提供大数据和云应用为核心的信息资源管理软件和服务。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+具体而言，公司面向政府部门、企事业单位等大型客户，以大数据为重点业务内容、以云应用为主要服务形式，围绕客户的核心平台和创新应用，提供全生命周期的信息资源管理软件和服务，实现政府（包括：政务、社会、城市、经济）的高效运营和智慧管理。
+
+## 核心竞争力：
+
+**CENSOFT : 中国领先的政府大数据和云应用服务提供商。**
+
+1. **在中间件软件平台方面，我们拥有国内国际领先的自主核心技术和尖端基础平台产品**
+
+  - CenGRP：领先的、专业的、成熟的、完整的的应用支撑和资源整合软件平台，集先进架构、应用支撑、资源管理、系统整合、开放连接、高效工具于一体的超级中间件平台。
+
+1. 在大数据、云计算、应用支撑、信息资源管理关键领域，我们拥有先进成熟的系列应用软件产品
+
+  - CenDATA：可实现政府大数据的全模式全生命周期管理
+  - CenCLOUD：可快速、高效构建随需而变的政府云应用
+  
+1. 在政府行业（政务、社会、城市、经济）,我们提供一流的、创新的、完整成熟的解决方案服务
+
+  - CenSOLUTION：源自中国高端优质政府客户、超过十年的共同成长和创新发展的知识和实践
+  - 新型的专业综合服务商：合纵（应用）连横（平台）、平台/行业应用/软件工程三合一的新型服务
+  - 代表着自主创新策源地、信息技术行业前沿的“中关村科技软件”品牌和注册商标，在中国政府客户中（包括我们已经服务的150家客户），有着明显的和独有的标志性、信任度和影响力。
